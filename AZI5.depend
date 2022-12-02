@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669921727 source:c:\users\user\onedrive\Рабочий стол\Учёба\Программирование\azi5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	<conio.h>
+
