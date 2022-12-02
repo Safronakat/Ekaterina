@@ -153,6 +153,8 @@ for(i=0; i<M;i++)
     case 3:{
         srand(time(NULL));
 
+
+
     void create_mtr();
     int M;
     printf("¬ведите размерность матрицы\n");
